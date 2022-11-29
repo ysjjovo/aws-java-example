@@ -1,4 +1,4 @@
-package com.mycompany.app.example;
+package com.mycompany.app.example.ses;
 import java.util.Properties;
 
 import javax.mail.Message;
@@ -7,7 +7,7 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-public class AmazonSESSample {
+public class App {
 
     // Replace sender@example.com with your "From" address.
     // This address must be verified.
